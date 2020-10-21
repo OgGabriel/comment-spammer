@@ -3,3 +3,6 @@ Spammer de comentários no instagram (funciona apenas com o webdrive do Google C
 
 # tutorial
 Acesse o meu vídeo explicativo no youtube: 
+
+# disclaimer
+Eu não sou responsável por qualquer violação das diretrizes do Instagram e também não incentivo tal violação. O usuário utilizará este script por prórpia conta e risco.
