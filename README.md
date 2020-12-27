@@ -1,6 +1,9 @@
 # comment-spammer
 Spammer de comentários no instagram (funciona apenas com o webdrive do Google Chrome)
 
+# requirements
+``pip install -r requirements.txt``
+
 # tutorial
 Acesse o meu vídeo explicativo no youtube: https://youtu.be/lJ2PFB-eooM
 
