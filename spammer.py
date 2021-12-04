@@ -34,7 +34,7 @@ print(r'      |____/>> |_|     /_/   \_\ |_|  |_|  |_|  |_|  |_____|   |_| \_\  
 print(r'       )(  (__)||>>_    \\    >><<,-,,-.  <<,-,,-.   <<   >>   //   \\_ ') 
 print(r'      (__)    (__)__)  (__)  (__)(./  \.)  (./  \.) (__) (__) (__)  (__) ')
 print(' ')
-print('                                                                             author: pedrokp // kp#3343')
+print('                                                                             author: hartz)
 print(' ')
 login = str(input(' [+] Coloque seu usuario do instagram: '))
 senha = getpass.getpass(' [+] Coloque a sua senha do instagram: ')
