@@ -41,7 +41,7 @@ senha = getpass.getpass(' [+] Coloque a sua senha do instagram: ')
 print(' ')
 print(Fore.RED + ' [!] Caso queira parar o script, aperte CTRL+C')
 print(Style.RESET_ALL)
-print(Fore.RED + ' [!] Qualquer duvida entre em contato comigo pelo discord (kp#3343)')
+print(Fore.RED + ' [!] ')
 print(Style.RESET_ALL)
 #função de randomizar as mensagens
 def my_shuffle(array):
