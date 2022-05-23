@@ -1,13 +1,13 @@
 # Comment-spammer
-Instagram comment spammer (works only with webdrive from Google Chrome)
+Instagram comment spammer [works only with webdrive from Google Chrome]
 
-# Requirements
+# Requirements :
 ``pip install -r requirements.txt``
 
-# Tutorial
+# Tutorial :
 You don't need to be a specialist on python to run it.
 
-# Disclaimer
+# Disclaimer :
 I am not responsible for any violations of Instagram's guidelines, nor do I encourage such violations. The user will use this script at his own risk.
 
-# Working since 2020, and still working.
+# Working since 2020.
